@@ -1,4 +1,4 @@
-package topic01_variables;
+package topic01_variables_and_datatypes;
 
 /** Write a program to -
  * Create a variable to store the name of a movie.

@@ -1,4 +1,4 @@
-package topic01_variables;
+package topic01_variables_and_datatypes;
 
 public class VariableDemo {
     // Static Variable (Its value is shared among all instances of this class)
