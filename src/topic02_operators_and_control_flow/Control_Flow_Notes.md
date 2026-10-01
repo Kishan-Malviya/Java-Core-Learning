@@ -18,6 +18,7 @@ Loops are used to execute a specific block of code repeatedly as long as a certa
 1. for loop - Typically used when you know exactly how many times the loop should repeat. It initializes a variable, checks a termination condition, and increments/decrements the variable.
 2. while loop - Evaluates a boolean condition at the top; repeats the code block continuously as long as the condition remains true.
 3. do-while loop - Similar to a while loop, but it evaluates the condition at the bottom. This guarantees that the loop body will execute at least once before stopping.
+4. enhanced for (for-each) loop - This is a specialized loop syntax designed exclusively for traversing arrays and collection structures. It simplifies the code by hiding index tracking and item retrieval.
 
 ### Branching (Jump) Statements
 Jump statements alter the execution flow by instantly transferring control from one part of the program to another.
